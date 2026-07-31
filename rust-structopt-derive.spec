@@ -5,7 +5,7 @@
 %global crate structopt-derive
 
 Name:           rust-%{crate}
-Version:        0.4.2
+Version:        0.4.18
 Release:        1%{?dist}
 Summary:        Parse command line argument by defining a struct, derive crate
 
